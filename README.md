@@ -121,11 +121,10 @@ python MEASG_score.py
 
 
 # Model
+![1](.\pic\1.png)
 
-![image-20241011153103751](C:\Users\10309\AppData\Roaming\Typora\typora-user-images\image-20241011153103751.png)
+![2](.\pic\2.png)
 
-![image-20241011153128674](C:\Users\10309\AppData\Roaming\Typora\typora-user-images\image-20241011153128674.png)
+![3](.\pic\3.png)
 
-![image-20241011153149515](C:\Users\10309\AppData\Roaming\Typora\typora-user-images\image-20241011153149515.png)
-
-![image-20241011153205358](C:\Users\10309\AppData\Roaming\Typora\typora-user-images\image-20241011153205358.png)
+![4](.\pic\4.png)
