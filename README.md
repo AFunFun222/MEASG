@@ -49,7 +49,7 @@ https://s3.us-east-2.amazonaws.com/icse2018/index.html
 
 
 
-# Config
+
 # Configuration Parameters
 
 | Parameter Name          | Description                              | Default Value     |
