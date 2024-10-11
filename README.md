@@ -121,5 +121,7 @@ python MEASG_score.py
 
 
 # Model
-<img src="https://github.com/GJCEXP/IMG/blob/main/HETCOS_IMG/ablation_study.png" width="80%" height="80%" alt="Ablation Study">
-<img src="https://github.com/AFunFun222/MEASG/blob/main/pic/1.png" width="80%" height="80%" alt="Ablation Study">
+<img src="https://github.com/AFunFun222/MEASG/blob/main/pic/1.png" width="80%" height="80%">
+<img src="https://github.com/AFunFun222/MEASG/blob/main/pic/2.png" width="80%" height="80%">
+<img src="https://github.com/AFunFun222/MEASG/blob/main/pic/3.png" width="80%" height="80%">
+<img src="https://github.com/AFunFun222/MEASG/blob/main/pic/4.png" width="80%" height="80%">
