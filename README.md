@@ -121,4 +121,4 @@ python MEASG_score.py
 
 
 # Model
-![image](https://github.com/AFunFun222/MEASG/tree/main/pic/1.png)
+<img src="https://github.com/GJCEXP/IMG/blob/main/HETCOS_IMG/ablation_study.png" width="80%" height="80%" alt="Ablation Study">
