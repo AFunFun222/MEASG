@@ -121,10 +121,4 @@ python MEASG_score.py
 
 
 # Model
-[![1](.\pic\1.png)](https://github.com/AFunFun222/MEASG/blob/main/pic/1.png)
-
-![2](.\pic\2.png)
-
-![3](.\pic\3.png)
-
-![4](.\pic\4.png)
+![image](https://github.com/AFunFun222/MEASG/tree/main/pic/1.png)
